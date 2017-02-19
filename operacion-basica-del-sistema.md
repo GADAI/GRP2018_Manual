@@ -1,10 +1,8 @@
 # Operación básica del sistema
 
-## Acceso al sistema
+Ésta sección describe los aspectos más generales de la operación del sistema
 
-## Descripción de la interfaz de usuario de inicio
-
-## Operación básica de las pantallas
+## 
 
 
 
