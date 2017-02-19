@@ -1,0 +1,1 @@
+#Operación básica del sistema
