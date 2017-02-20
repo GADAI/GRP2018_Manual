@@ -1,8 +1,8 @@
 # Summary
 
 * [Introducción](README.md)
-* [Operación básica del sistema](operacion-basica-del-sistema.md)
-  * Acceso al sistema
-  * Descripción de la interfaz de usuario de inicio
-  * Operación básica de las pantallas
+* Operación básica del sistema
+  * [Acceso al sistema](acceso-al-sistema.md)
+  * [Descripción de la interfaz de usuario de inicio](descripcion-de-la-interfaz-de-usuario-de-inicio.md)
+  * [Operación básica de las pantallas](operacion-basica-de-las-pantallas.md)
 
